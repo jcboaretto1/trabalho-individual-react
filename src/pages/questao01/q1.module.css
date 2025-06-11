@@ -1,0 +1,20 @@
+.temaClaro {
+    width: 100vw;
+    height: 100vh;
+    padding: 20px;
+    background-color: white;
+    color: black;
+}
+
+.temaEscuro {
+    width: 100vw;
+    height: 100vh;
+    padding: 20px;
+    background-color: gray;
+    color: black;
+}
+
+.temaClaro,
+.temaEscuro {
+    text-align: center;
+}

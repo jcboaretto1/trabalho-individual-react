@@ -1,4 +1,15 @@
 .home {
     display: flex;
     justify-content: center;
+    width: 100vw;
+    height: 15vh;
+}
+
+.msg {
+    text-align: center;
+}
+
+.foto {
+    display: flex;
+    justify-content: center;
 }
